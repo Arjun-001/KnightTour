@@ -1,0 +1,20 @@
+C:\Users\arjun\source\repos\ChessAssignmentWindows\ChessAssignmentWindows\bin\Debug\ChessAssignmentWindows.exe.config
+C:\Users\arjun\source\repos\ChessAssignmentWindows\ChessAssignmentWindows\bin\Debug\ChessAssignmentWindows.exe
+C:\Users\arjun\source\repos\ChessAssignmentWindows\ChessAssignmentWindows\bin\Debug\ChessAssignmentWindows.pdb
+C:\Users\arjun\source\repos\ChessAssignmentWindows\ChessAssignmentWindows\obj\Debug\ChessAssignmentWindows.Form1.resources
+C:\Users\arjun\source\repos\ChessAssignmentWindows\ChessAssignmentWindows\obj\Debug\ChessAssignmentWindows.Properties.Resources.resources
+C:\Users\arjun\source\repos\ChessAssignmentWindows\ChessAssignmentWindows\obj\Debug\ChessAssignmentWindows.csproj.GenerateResource.cache
+C:\Users\arjun\source\repos\ChessAssignmentWindows\ChessAssignmentWindows\obj\Debug\ChessAssignmentWindows.csproj.CoreCompileInputs.cache
+C:\Users\arjun\source\repos\ChessAssignmentWindows\ChessAssignmentWindows\obj\Debug\ChessAssignmentWindows.exe
+C:\Users\arjun\source\repos\ChessAssignmentWindows\ChessAssignmentWindows\obj\Debug\ChessAssignmentWindows.pdb
+C:\Users\arjun\source\repos\ChessAssignmentWindows\ChessAssignmentWindows\obj\Debug\ChessAssignmentWindows.csprojResolveAssemblyReference.cache
+E:\Softwares\My course\SEMESTER 4\C# and .net\Team Japan (Sonali Bedi, Arjun Chowdhary) Assignment 1\ChessAssignmentWindows\ChessAssignmentWindows\ChessAssignmentWindows\bin\Debug\ChessAssignmentWindows.exe.config
+E:\Softwares\My course\SEMESTER 4\C# and .net\Team Japan (Sonali Bedi, Arjun Chowdhary) Assignment 1\ChessAssignmentWindows\ChessAssignmentWindows\ChessAssignmentWindows\bin\Debug\ChessAssignmentWindows.exe
+E:\Softwares\My course\SEMESTER 4\C# and .net\Team Japan (Sonali Bedi, Arjun Chowdhary) Assignment 1\ChessAssignmentWindows\ChessAssignmentWindows\ChessAssignmentWindows\bin\Debug\ChessAssignmentWindows.pdb
+E:\Softwares\My course\SEMESTER 4\C# and .net\Team Japan (Sonali Bedi, Arjun Chowdhary) Assignment 1\ChessAssignmentWindows\ChessAssignmentWindows\ChessAssignmentWindows\obj\Debug\ChessAssignmentWindows.csprojAssemblyReference.cache
+E:\Softwares\My course\SEMESTER 4\C# and .net\Team Japan (Sonali Bedi, Arjun Chowdhary) Assignment 1\ChessAssignmentWindows\ChessAssignmentWindows\ChessAssignmentWindows\obj\Debug\ChessAssignmentWindows.Form1.resources
+E:\Softwares\My course\SEMESTER 4\C# and .net\Team Japan (Sonali Bedi, Arjun Chowdhary) Assignment 1\ChessAssignmentWindows\ChessAssignmentWindows\ChessAssignmentWindows\obj\Debug\ChessAssignmentWindows.Properties.Resources.resources
+E:\Softwares\My course\SEMESTER 4\C# and .net\Team Japan (Sonali Bedi, Arjun Chowdhary) Assignment 1\ChessAssignmentWindows\ChessAssignmentWindows\ChessAssignmentWindows\obj\Debug\ChessAssignmentWindows.csproj.GenerateResource.cache
+E:\Softwares\My course\SEMESTER 4\C# and .net\Team Japan (Sonali Bedi, Arjun Chowdhary) Assignment 1\ChessAssignmentWindows\ChessAssignmentWindows\ChessAssignmentWindows\obj\Debug\ChessAssignmentWindows.csproj.CoreCompileInputs.cache
+E:\Softwares\My course\SEMESTER 4\C# and .net\Team Japan (Sonali Bedi, Arjun Chowdhary) Assignment 1\ChessAssignmentWindows\ChessAssignmentWindows\ChessAssignmentWindows\obj\Debug\ChessAssignmentWindows.exe
+E:\Softwares\My course\SEMESTER 4\C# and .net\Team Japan (Sonali Bedi, Arjun Chowdhary) Assignment 1\ChessAssignmentWindows\ChessAssignmentWindows\ChessAssignmentWindows\obj\Debug\ChessAssignmentWindows.pdb
